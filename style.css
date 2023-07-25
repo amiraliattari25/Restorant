@@ -1,0 +1,103 @@
+#change1{
+    text-align: center;
+    background-color: rgb(120, 120, 221);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    font-size: 60px;
+ 
+}
+.note{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid;
+    background-color: rgb(190, 190, 201);
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+    
+ 
+}
+
+#change2{
+    text-align: center;
+    background-color: rgb(217, 217, 228);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-weight: bolder  ;
+
+}
+
+#c1{
+    text-align: center;
+    background-color: navy;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+
+}
+#c2{
+    text-align: center;
+    background-color: navy;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+
+}
+
+#c3{
+    text-align: center;
+    background-color: navy;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+
+}
+
+
+#c4{
+    text-align: center;
+    background-color: navy;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+
+}
+
+#C5{
+    text-align: center;
+    background-color: navy;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+
+}
+
+#C6{
+    text-align: center;
+    background-color: navy;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+
+}
+
+.A1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+*{
+    background-color: rgb(172, 232, 232);
+}
+
+.note1{
+    text-align: center;
+    background-color: navy;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
